@@ -1,5 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
+import cancha from "../Assets/cancha.svg";
 
 const mapDispatchToProps = (dispatch) => ({
   quitarTitular(jugador) {
@@ -18,7 +19,7 @@ const Titulares = ({ titulares, quitarTitular }) => {
   return (
     <section>
       <h2>Titulares</h2>
-      <div className="campo">
+      <div className="cancha">
         {titulares.map((jugador) => (
           <article className="titular" key={jugador.id}>
             <div>
@@ -28,6 +29,7 @@ const Titulares = ({ titulares, quitarTitular }) => {
             <p>{jugador.nombre}</p>
           </article>
         ))}
+        <img src={cancha} alt="cancha de futbol" />
       </div>
     </section>
   );
