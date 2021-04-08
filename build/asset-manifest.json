@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9de6a903.chunk.css",
+    "main.js": "/static/js/main.abf63b32.chunk.js",
+    "main.js.map": "/static/js/main.abf63b32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d276f4eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d276f4eb.js.map",
+    "static/js/2.8d09cfab.chunk.js": "/static/js/2.8d09cfab.chunk.js",
+    "static/js/2.8d09cfab.chunk.js.map": "/static/js/2.8d09cfab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9de6a903.chunk.css.map": "/static/css/main.9de6a903.chunk.css.map",
+    "static/js/2.8d09cfab.chunk.js.LICENSE.txt": "/static/js/2.8d09cfab.chunk.js.LICENSE.txt",
+    "static/media/abelink.45316b69.jpg": "/static/media/abelink.45316b69.jpg",
+    "static/media/benito.4f9d9ba9.jpg": "/static/media/benito.4f9d9ba9.jpg",
+    "static/media/bryan.f2899259.jpg": "/static/media/bryan.f2899259.jpg",
+    "static/media/cancha.5cd7b0ad.svg": "/static/media/cancha.5cd7b0ad.svg",
+    "static/media/cesar.9a8744bd.jpg": "/static/media/cesar.9a8744bd.jpg",
+    "static/media/fernando.bfe43e79.jpg": "/static/media/fernando.bfe43e79.jpg",
+    "static/media/lucho.d65baf0f.jpg": "/static/media/lucho.d65baf0f.jpg",
+    "static/media/luigi.502479a5.jpg": "/static/media/luigi.502479a5.jpg",
+    "static/media/misho.38119212.jpg": "/static/media/misho.38119212.jpg",
+    "static/media/owen.0f80f6a9.jpg": "/static/media/owen.0f80f6a9.jpg",
+    "static/media/skins.ce45230d.jpg": "/static/media/skins.ce45230d.jpg",
+    "static/media/waida.d0a26326.jpg": "/static/media/waida.d0a26326.jpg",
+    "static/media/yoshi.7c5ce43e.jpg": "/static/media/yoshi.7c5ce43e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d276f4eb.js",
+    "static/js/2.8d09cfab.chunk.js",
+    "static/css/main.9de6a903.chunk.css",
+    "static/js/main.abf63b32.chunk.js"
+  ]
+}
