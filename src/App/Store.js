@@ -2,7 +2,11 @@ import { createStore } from "redux";
 
 //data
 const initialState = {
-  jugadores: [],
+  jugadores: [{
+    id: 1,
+    nombre: "Cesar Cachay",
+    foto: ""
+  }],
   titulares: [],
   suplentes: [],
 };
